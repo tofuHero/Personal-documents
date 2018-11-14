@@ -2,7 +2,7 @@
 
 ---
 
-# 安装
+# Zeppelin 安装
 
 **注：** Zeppelin 版本为 0.8.0
 
@@ -42,4 +42,34 @@
 
 至此 **Zeppelin** 安装完成
 
- [1]: https://zeppelin.apache.org/
+# Zeppelin 使用 SpliceMachine 数据配置
+
+## 配置适用于 SpliceMachine 的解释器
+- 启动 Zeppelin、SpliceMachine
+- 点击右上角的 `Interpreter`
+ ![][2]
+- 点击右侧 **Create**，新建解释器
+ ![][3]
+- 按照下图配置 `Interpreter`，然后保存（Save）
+ ![配置 Interpreter][4]
+
+## 测试
+
+- 新建一个 **Note**
+ ![新建 Note][5]
+- 填写基本信息
+ ![填写基本信息][6]
+- 查询与分析展示
+ ![查询][7]
+- 数据的其他展示方式 
+ ![展示][8]
+
+
+  [1]: https://zeppelin.apache.org/
+  [2]: https://s1.ax2x.com/2018/11/14/5zujg2.png
+  [3]: https://s1.ax2x.com/2018/11/14/5zuWOE.png
+  [4]: https://s1.ax2x.com/2018/11/14/5zudUQ.png
+  [5]: https://s1.ax2x.com/2018/11/14/5zu4IN.png
+  [6]: https://s1.ax2x.com/2018/11/14/5zuZ9u.png
+  [7]: https://s1.ax2x.com/2018/11/14/5zuvUA.png
+  [8]: https://s1.ax2x.com/2018/11/14/5zuhb9.png
