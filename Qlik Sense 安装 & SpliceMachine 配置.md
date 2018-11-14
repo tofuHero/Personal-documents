@@ -9,9 +9,10 @@
 - 同样的，SpliceMachine ODBC 也需要填写表单，这里提供[官方下载地址][3]
 - 双击 **splice_odbc_setup_64bit_2.7.51.0.msi** 安装 SpliceMachine ODBC
 - 开始菜单搜索 **64-bit ODBC Administrator** 并启动
- ![64-bit ODBC Administrator 配置界面][4]
 - 正常情况下在 **系统 DSN** 选项卡里会出现 `Splice DSN` 一项
+ ![64-bit ODBC Administrator 配置界面][4]
 - 双击 **Splice DSN**，在 **User**、**Password**、**Server** 处分别填写 `splice`、`密码`、`服务器地址` 和端口号 `1527`
+ ![SpliceMachine ODBC 配置界面][5]
 - 点击 **Test**，验证连接，最后点击 **OK** 保存退出
 
 # 配置 Qlik Sense 连接 SpliceMachine
@@ -27,4 +28,5 @@
  [1]: https://www.qlik.com/us/
  [2]: https://da3hntz84uekx.cloudfront.net/sense/production/Qlik_Sense_Desktop_setup.exe
  [3]: https://s3.amazonaws.com/splice-releases/odbc-driver/win64/splice_odbc_setup_64bit_2.7.51.0.msi
- [4]: file:///home/tofuhero/图片/截屏/Screenshot_20181113_213425.png
+ [4]: https://s1.ax2x.com/2018/11/14/5zbkih.png
+ [5]: https://s1.ax2x.com/2018/11/14/5zb8mH.png
