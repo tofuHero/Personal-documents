@@ -17,6 +17,8 @@
 
 ![运行截图](https://s1.ax2x.com/2018/11/14/5zuLZr.png)
 
+## [配置方式](https://github.com/tofuHero/Personal-documents/blob/master/SQurreL%20SQL%20%26%20SpliceMachine%20%E9%85%8D%E7%BD%AE.md)
+
 ---
 
 # DBeaver
@@ -35,6 +37,8 @@
 
 ![运行截图](https://s1.ax2x.com/2018/11/15/5zvZRE.png)
 
+## [配置方式](https://github.com/tofuHero/Personal-documents/blob/master/DBeaver%20%26%20SpliceMachine%20%E9%85%8D%E7%BD%AE.md)
+
 ---
 
 # DataGrip
@@ -52,3 +56,5 @@
 - 收费
 
 ## 运行截图
+
+## [配置方式](https://github.com/tofuHero/Personal-documents/blob/master/DataGrip%20%26%20SpliceMachine%20%E9%85%8D%E7%BD%AE.md)
